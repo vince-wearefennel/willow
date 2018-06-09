@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vince-waf.github.io" resolutions="1x" timestamp="1528574472355">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="about-us.css" crc="4255499686" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="458858931" ref="about-us"/>
+    <file name="index.css" crc="4236311964" ref="index"/>
+    <file name="iefonts_index.css" crc="4094524508" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us"/>
+    <file name="museconfig.js" crc="172512987" ref="index:about-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:about-us"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about-us"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u2278.php" crc="3953282557" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:about-us"/>
+    <file name="require.js" crc="4159430777" ref="index:about-us"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-photo-416357.jpg" crc="3923416926" ref="index:about-us"/>
+    <file name="icon-05.png" crc="4200100789" seo="true" ref="index"/>
+    <file name="newlogos-021.png" crc="5008436" ref="index:about-us"/>
+    <file name="800px-fennel_flower_heads.jpg" crc="4287660008" seo="true" ref="index:about-us"/>
+    <file name="photo6102900931797559313.jpg" crc="4167879036" seo="true" ref="index"/>
+    <file name="photo6102900931797559312.jpg" crc="53083568" seo="true" ref="index"/>
+    <file name="lending icons-02.png" crc="3773548793" seo="true" ref="index"/>
+    <file name="5895ceb8cba9841eabab6072.png" crc="4070081745" seo="true" ref="index"/>
+    <file name="lending icons-03.png" crc="3958654234" seo="true" ref="index"/>
+    <file name="lending icons-04.png" crc="129739134" seo="true" ref="index"/>
+    <file name="untitled-1.png" crc="189152824" seo="true" ref="index:about-us"/>
+    <file name="dark blue half circle.png" crc="4196238197" seo="true" ref="index:about-us"/>
+    <file name="lighter untitled-1.png" crc="4159991303" seo="true" ref="index:about-us"/>
+    <file name="green line.png" crc="4222745714" seo="true" ref="index:about-us"/>
+  </folder>
+  <file name="index.html" crc="3995543134" seo="true" mt="1528572404021" redirect="true"/>
+  <file name="about-us.html" crc="408663140" seo="true" mt="1528573538350" redirect="true"/>
+</manifest>
